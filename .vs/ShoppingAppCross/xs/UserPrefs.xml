@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{F50BA59D-3E5D-4F00-AB3F-8CAE2134AE34}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShoppingAppCross.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04C17247-4CAC-4F7F-B1B4-DBF12E8EA820" />
+</Properties>

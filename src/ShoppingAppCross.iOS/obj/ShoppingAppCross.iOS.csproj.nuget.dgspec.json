@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/ShoppingAppCross.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj",
+        "projectName": "ShoppingAppCross.Core",
+        "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj",
+        "packagesPath": "/Users/himanshukumar/.nuget/packages/",
+        "outputPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/himanshukumar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/himanshukumar/Library/Caches/VisualStudio/17.0/MSBuild/55067_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/ShoppingAppCross.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/ShoppingAppCross.iOS.csproj",
+        "projectName": "ShoppingAppCross.iOS",
+        "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/ShoppingAppCross.iOS.csproj",
+        "packagesPath": "/Users/himanshukumar/.nuget/packages/",
+        "outputPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/himanshukumar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj": {
+                "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj"
+              },
+              "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/ShoppingAppCross.UI.csproj": {
+                "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/ShoppingAppCross.UI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.Forms": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Xamarin": {
+              "target": "Package",
+              "version": "[0.2.0.64, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2125, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/ShoppingAppCross.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/ShoppingAppCross.UI.csproj",
+        "projectName": "ShoppingAppCross.UI",
+        "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/ShoppingAppCross.UI.csproj",
+        "packagesPath": "/Users/himanshukumar/.nuget/packages/",
+        "outputPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.UI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/himanshukumar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj": {
+                "projectPath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.Forms": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2125, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/himanshukumar/Library/Caches/VisualStudio/17.0/MSBuild/55067_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

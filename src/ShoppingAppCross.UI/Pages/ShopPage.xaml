@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<views:MvxContentPage
+     x:TypeArguments="viewModels:ShopViewModel"
+    xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ShoppingAppCross.UI.Pages.ShopPage"
+    xmlns:viewModels="clr-namespace:ShoppingAppCross.Core.ViewModels;assembly=ShoppingAppCross.Core"
+    x:DataType="viewModels:ShopViewModel">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Margin="50,100">
+            <Label Text="Shop" TextColor="Black" FontAttributes="Bold" FontSize="Medium"/>
+            <Label Text="Contact Us" TextColor="Black" FontAttributes="Bold" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</views:MvxContentPage>
+

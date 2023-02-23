@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAW+gC4PUGcg2KArlRn0BBwSzsMzXnNX+RqT3feE4SY7HeRWDnj4YZqH68dKtloCmfQIXTJaThajEWVwlWIz1A==",
+  "success": true,
+  "projectFilePath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.iOS/ShoppingAppCross.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.logging/2.0.0/microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.options/2.0.0/microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/mvvmcross.forms/8.0.2/mvvmcross.forms.8.0.2.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog/2.8.0/serilog.2.8.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog.extensions.logging/3.0.1/serilog.extensions.logging.3.0.1.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog.sinks.xamarin/0.2.0.64/serilog.sinks.xamarin.0.2.0.64.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/xamarin.forms/5.0.0.2125/xamarin.forms.5.0.0.2125.nupkg.sha512"
+  ],
+  "logs": []
+}

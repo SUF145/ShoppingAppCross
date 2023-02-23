@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrvjvcKj8BhrFAqJ/SICJsY+Q51VAbJR2wk3K1LOxxkUVImYs/nsbmO87pE7rtX6txIxcGr3xgVxrMT2eWeNaA==",
+  "success": true,
+  "projectFilePath": "/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/ShoppingAppCross.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

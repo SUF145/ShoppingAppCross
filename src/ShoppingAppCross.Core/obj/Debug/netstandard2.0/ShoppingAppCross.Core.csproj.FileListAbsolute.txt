@@ -1,0 +1,8 @@
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/bin/Debug/netstandard2.0/ShoppingAppCross.Core.deps.json
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/bin/Debug/netstandard2.0/ShoppingAppCross.Core.dll
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/bin/Debug/netstandard2.0/ShoppingAppCross.Core.pdb
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/Debug/netstandard2.0/ShoppingAppCross.Core.AssemblyInfoInputs.cache
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/Debug/netstandard2.0/ShoppingAppCross.Core.AssemblyInfo.cs
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/Debug/netstandard2.0/ShoppingAppCross.Core.csproj.CoreCompileInputs.cache
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/Debug/netstandard2.0/ShoppingAppCross.Core.dll
+/Users/himanshukumar/Desktop/ShoppingAppCross/src/ShoppingAppCross.Core/obj/Debug/netstandard2.0/ShoppingAppCross.Core.pdb
