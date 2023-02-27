@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{07D7E821-E4D8-489B-B365-52E05252B556}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_10_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.Test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04C17247-4CAC-4F7F-B1B4-DBF12E8EA820" />
+  <MonoDevelop.Ide.ItemProperties.Test.Droid PreferredExecutionTarget="Android.nexus_10_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Test.UI/Pages/ContactUsPage.xaml">
+    <Files>
+      <File FileName="src/Test.UI/Pages/MasterDetailPage.xaml" />
+      <File FileName="src/Test.UI/Pages/MasterDetailPage.xaml.cs" />
+      <File FileName="src/Test.Core/ViewModels/MasterDetailViewModel.cs" />
+      <File FileName="src/Test.UI/Pages/MenuPage.xaml" />
+      <File FileName="src/Test.UI/Pages/MenuPage.xaml.cs" />
+      <File FileName="src/Test.Core/ViewModels/MenuViewModel.cs" />
+      <File FileName="src/Test.UI/Pages/ShopPage.xaml" />
+      <File FileName="src/Test.UI/Pages/ShopPage.xaml.cs" />
+      <File FileName="src/Test.Core/ViewModels/ShopViewModel.cs" />
+      <File FileName="src/Test.Core/ViewModels/ContactUsViewModel.cs" />
+      <File FileName="src/Test.UI/Pages/ContactUsPage.xaml" Line="17" Column="24" />
+      <File FileName="src/Test.UI/Pages/ContactUsPage.xaml.cs" />
+      <File FileName="src/Test.Core/App.cs" />
+      <File FileName="src/Test.UI/Pages/HomePage.xaml" />
+      <File FileName="src/Test.iOS/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Test.UI" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="ContactUsPage.xaml" expanded="True" selected="True" />
+                <Node name="MasterDetailPage.xaml" expanded="True" />
+                <Node name="MenuPage.xaml" expanded="True" />
+                <Node name="ShopPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

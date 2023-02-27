@@ -1,0 +1,9 @@
+/Users/himanshukumar/Desktop/Test/src/Test.Core/bin/Debug/netstandard2.0/Test.Core.deps.json
+/Users/himanshukumar/Desktop/Test/src/Test.Core/bin/Debug/netstandard2.0/Test.Core.dll
+/Users/himanshukumar/Desktop/Test/src/Test.Core/bin/Debug/netstandard2.0/Test.Core.pdb
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.csproj.AssemblyReference.cache
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.AssemblyInfoInputs.cache
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.AssemblyInfo.cs
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.csproj.CoreCompileInputs.cache
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.dll
+/Users/himanshukumar/Desktop/Test/src/Test.Core/obj/Debug/netstandard2.0/Test.Core.pdb

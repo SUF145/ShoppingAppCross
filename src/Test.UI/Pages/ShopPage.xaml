@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<views:MvxContentPage
+    x:TypeArguments="viewModels:ShopViewModel"
+    xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewModels="clr-namespace:Test.Core.ViewModels;assembly=Test.Core"
+    x:Class="Test.UI.Pages.ShopPage"
+    x:DataType="viewModels:ShopViewModel">
+    <ContentPage.Content>
+        <CollectionView ItemsSource="{Binding TshirtsList}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="viewModels:Tshirt">
+                    <StackLayout>
+                        <Frame HasShadow="False" WidthRequest="205">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="{Binding ImageUrl}"/>
+                                <Frame Grid.Column="1" HasShadow="False" HeightRequest="100">
+                                    <StackLayout>
+                                        <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="Medium" HorizontalOptions="Center"/>
+                                        <Label Text="{Binding Description}" FontAttributes="Italic" FontSize="Small" HorizontalOptions="Center"/>
+                                        <Label HorizontalOptions="Center" TextColor="Black" FontSize="Medium" FontAttributes="Italic">
+                                            <Label.FormattedText>
+                                                <FormattedString>
+                                                    <Span Text="Price : "/>
+                                                    <Span Text="{Binding Price}"/>
+                                                    <Span Text="/-"/>
+                                                </FormattedString>
+
+                                            </Label.FormattedText>
+
+                                        </Label>
+                                        <Button HeightRequest="40" Text="Buy Now" TextColor="White" CornerRadius="20" VerticalOptions="Center"
+                                                BackgroundColor="#2196F3" Margin="10,20"
+                                                Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:ShopViewModel}}, Path=BuyNowCommand}" CommandParameter="{Binding .}"/>
+                                    </StackLayout>
+
+                                </Frame>
+
+                            </Grid>
+
+                        </Frame>
+
+                    </StackLayout>
+
+                </DataTemplate>
+
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+    </ContentPage.Content>
+</views:MvxContentPage>
